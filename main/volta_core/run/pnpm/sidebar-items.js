@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["command",""],["execution_context","Determine the execution context (PATH and failure error message) for pnpm"],["validate_platform_pnpm",""]]};

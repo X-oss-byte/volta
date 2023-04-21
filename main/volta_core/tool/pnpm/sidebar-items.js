@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["resolve",""]],"mod":[["fetch","Provides fetcher for pnpm distributions"],["resolve",""]],"struct":[["Pnpm","The Tool implementation for fetching and installing pnpm"]]};
